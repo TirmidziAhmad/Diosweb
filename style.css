@@ -1,0 +1,62 @@
+* {
+  font-family: "Montserrat", sans-serif !important;
+}
+.jumbotron {
+  background-color: #343b3f;
+  padding-top: 80px;
+  padding-bottom: 14.5rem;
+}
+.teksjumbotron {
+  margin-top: 7rem;
+}
+.navbar-nav {
+  padding-right: 20px !important;
+}
+
+.nav-item {
+  margin-left: 10px;
+}
+.btn {
+  border-radius: 0px !important;
+}
+
+#about {
+  padding: 5rem 0rem;
+}
+.p1 {
+  font-size: 50px;
+  font-weight: bolder;
+}
+.p2 {
+  font-size: 20px;
+}
+.p3 {
+  font-size: 50px;
+  font-weight: bolder;
+}
+.p4 {
+  font-size: 20px;
+}
+#service {
+  background-color: #343b3f;
+  padding: 5rem 0rem;
+}
+.conten2 img {
+  height: 70px;
+}
+.conten3 img {
+  width: 250px;
+}
+
+.siapa {
+  margin: 90px 70px;
+}
+
+.siapaino {
+  background-color: #343b3f;
+}
+
+.kontakkami {
+  padding: 2rem 2rem;
+  background-color: #343b3f;
+}
